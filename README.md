@@ -1,3 +1,3 @@
-# Ancient-Chinese
+# Old-Chinese
 
-## This is a repository for a future ancient Chinese project. 
+This is a repository for the future old Chinese project. 
